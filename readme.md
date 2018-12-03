@@ -4,10 +4,7 @@
 
 
 
-2. **Develop a plan using S.M.A.R.T. goals to continue progress in the areas you mentioned above.**
-
-*S.M.A.R.T. - Specific, Measurable, Attainable, Relevant and Timely.*
-
+2. **Develop a plan using S.M.A.R.T. goals to continue progress in the areas you mentioned above.** *S.M.A.R.T. - Specific, Measurable, Attainable, Relevant and Timely.*
 
 
 3. **Look back at Block 1, choose 3 'aha' moments where something clicked and describe them below.**
@@ -18,4 +15,4 @@
 
 
 
-5. **What technologies/industries are you most excited about currently?** 
+5. **What technologies/industries are you most excited about currently?**
